@@ -1,6 +1,7 @@
 # Maintainer: Patrick Northon <northon_patrick3@yahoo.ca>
 
 _pkgname=blosc
+_realname=blosc
 pkgname=mingw-w64-${_pkgname}
 pkgver=1.21.6
 pkgrel=1
